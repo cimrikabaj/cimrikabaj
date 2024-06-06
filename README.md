@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cimrika Bajracharya</h1>
 <h3 align="center">A Passionate Learner</h3>
 
-- 🌱 I’m currently learning **data science and full-stack development.**
+- 🌱 I’m currently learning **data science and front-end development.**
 
 - 📫 How to reach me **bajcimi@gmail.com**
 
